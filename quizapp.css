@@ -5,3 +5,17 @@
 	font-style: normal;
 }
 
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Zelda Advance';
+	box-sizing: border-box;
+}
+
+body {
+	background: #001e4d;
+}
+
+.app {
+	
+}
