@@ -67,5 +67,7 @@ function showQuestion() {
 	});
 }
 
+startQuiz();
+
 
 
